@@ -5,14 +5,14 @@
 <details>
   <summary > :brazil: Portuguese </summary>
   <p>
-    Estruturar uma aplicação web fullstack, dockerizada, cujo objetivo seja possibilitar que usuários da NG consigam realizar transferências internas entre si.
+     Application fullstack de review de filmes de arquitetura fracamente acoplada, essas duas partes (implementadas usando tecnologias diferentes) podem evoluir em paralelo e independentemente uma da outra. 
   </p>
 </details>
 
 <details>
   <summary > :us: English </summary>
   <p>
-    Structuring a fullstack, dockerized web application, whose objective is to enable NG users to be able to perform internal transfers between themselves.
+    Weakly coupled architecture film review application, these two parts (implemented using different technologies) can evolve in parallel and independently of each other.
   </p>
 </details>
 
