@@ -78,7 +78,7 @@ git@github.com:LucasUanderson/Movie_Fullsatck.git
    
   
 
-  ## 1 - Rotas do Usuário - User Routes
+  ##  - Rotas do Usuário - User Routes 🗺️
   <details>
   <summary>:brazil: Portuguese </summary>
   
