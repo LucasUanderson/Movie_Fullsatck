@@ -2,6 +2,7 @@
 ###### by _[Lucas Uanderson](https://www.linkedin.com/in/lucasuanderson/)_
 
 ## 📃 Sobre - About
+
 <details>
   <summary > :brazil: Portuguese </summary>
   <p>
@@ -122,7 +123,7 @@ Nessa requisição `GET` é necessário informar o seguinte JSON:
 <details>
   <summary>:us: English </summary>
   
-   ###  Reviews
+   ###  Reviews 
   
 | Method | Functionality                        | URL                                  |
 | ------ | ------------------------------------ | ------------------------------------ |
@@ -161,27 +162,28 @@ In this `GET` request, it is necessary to inform the following JSON:
   
   </details>
   
-  # Front-End
+  ### Imagens frontend 💻
   
   <details>
   <summary>:brazil: Portuguese </summary>
+  .
   Para ter acesso ao front end da aplicação, basta apenas acessar o endereço 
   `http://localhost:3000/`
   
-  ##  - home
+  ##  - Home
   <div align="center">
-  <img src="./images/home-page.png" alt="Premium-home"/>
+  <img src="./Image/home.png" alt="Premium-home"/>
   </div>
  
   
-  ##  - reviews
+  ##  - Reviews
   <div align="center">
-  <img src="./images/home-page.png" alt="Premium-home"/>
+  <img src="/Image/reviews.png" alt="Premium-reviews"/>
   </div>
   
-  ##  - player
+  ##  - Player
   <div align="center">
-  <img src="./images/home-page.png" alt="Premium-home"/>
+  <img src="./Image/players.png" alt="Premium-player"/>
   </div>
   
   </details>
