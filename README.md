@@ -186,4 +186,6 @@ In this `GET` request, it is necessary to inform the following JSON:
   
   </details>
 
-  
+ <p align="center">
+<img width=150 src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
