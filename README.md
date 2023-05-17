@@ -33,7 +33,14 @@
 
 <details>
   <summary>:brazil: Portuguese </summary>
-Você precisa ter instalado as seguintes ferramentas: Git, Docker e Docker Compose
 
-Será necessário que a porta 3000 e 3001 estejam disponíveis para a aplicação, Postgresql usará a porta 5432 e o PG Adming usará a 5050
+  <p> Acessar a aplicação localmente, instalando as dependências, tanto no (movie_client - frontend) quanto no (movie - backend)</p>
+  
+Será necessário que a porta 8080 e 3000 estejam disponíveis para a aplicação e MongoDb usará a porta 27017.
+  
+   - Clone o repositório em: 
+```
+git@github.com:LucasUanderson/Movie_Fullsatck.git
+```
+  
 
