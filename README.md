@@ -10,7 +10,7 @@
 </details>
 
 <details>
-  <summary > :us: English </summary>
+  <summary > us: English </summary>
   <p>
     Weakly coupled architecture film review application, these two parts (implemented using different technologies) can evolve in parallel and independently of each other.
   </p>
@@ -26,4 +26,14 @@
   
 # - Back End:
   - Java
+  - MongoDb
+
+
+## ⚙️ Como executar - How to run
+
+<details>
+  <summary>:brazil: Portuguese </summary>
+Você precisa ter instalado as seguintes ferramentas: Git, Docker e Docker Compose
+
+Será necessário que a porta 3000 e 3001 estejam disponíveis para a aplicação, Postgresql usará a porta 5432 e o PG Adming usará a 5050
 
