@@ -18,13 +18,13 @@
 
 ## 🛠️ Ferramentas - Tools
 
-# - Front End:
+### - Front End:
   - React
   - React Router Dom
   - Context Api
   - React Hooks
   
-# - Back End:
+### - Back End:
   - Java
   - MongoDb
 
@@ -76,7 +76,7 @@ git@github.com:LucasUanderson/Movie_Fullsatck.git
    </details>
    
    
-   # Back-End
+  
 
   ## 1 - Rotas do Usuário - User Routes
   <details>
@@ -161,8 +161,29 @@ In this `GET` request, it is necessary to inform the following JSON:
   
   </details>
   
+  # Front-End
+  
   <details>
   <summary>:brazil: Portuguese </summary>
-  Para ter acesso ao front end da aplicação, basta apenas acessar o endereço `http://localhost:3000/`.
-  ## 1 - Home Page
+  Para ter acesso ao front end da aplicação, basta apenas acessar o endereço 
+  `http://localhost:3000/`
+  
+  ##  - home
+  <div align="center">
+  <img src="./images/home-page.png" alt="Premium-home"/>
+  </div>
+ 
+  
+  ##  - reviews
+  <div align="center">
+  <img src="./images/home-page.png" alt="Premium-home"/>
+  </div>
+  
+  ##  - player
+  <div align="center">
+  <img src="./images/home-page.png" alt="Premium-home"/>
+  </div>
+  
+  </details>
+
   
