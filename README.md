@@ -1,4 +1,4 @@
-#  Premium 
+#  Premium  ✅
 ###### by _[Lucas Uanderson](https://www.linkedin.com/in/lucasuanderson/)_
 
 ## 📃 Sobre - About
