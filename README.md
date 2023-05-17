@@ -33,7 +33,7 @@
 
 <details>
   <summary>:brazil: Portuguese </summary>
-
+.
   <p> Acessar a aplicação localmente, instalando as dependências, tanto no (movie_client - frontend) quanto no (movie - backend)</p>
   
 Será necessário que a porta 8080 e 3000 estejam disponíveis para a aplicação e MongoDb usará a porta 27017.
@@ -42,5 +42,127 @@ Será necessário que a porta 8080 e 3000 estejam disponíveis para a aplicaçã
 ```
 git@github.com:LucasUanderson/Movie_Fullsatck.git
 ```
+  - Execute o frontend no terminal:
   
+  `- Front End: npm start`
+  
+  - A aplicação irá ficar disponivel nas seguintes rotas:
+  
+  `- Front End: http://localhost:3000`
 
+  `- Back End: http://localhost:3001`
+  </details>
+
+<details>
+  <summary>:us: English </summary>
+  .
+<p>Access the application locally, installing the dependencies, both in (movie_client - frontend) and in (movie - backend)</p>
+  
+ It will be necessary that port 8080 and 3000 are available for the application and MongoDb will use port 27017.
+  
+   - Clone the repository at: 
+```
+git@github.com:LucasUanderson/Movie_Fullsatck.git
+```
+  - Run frontend in terminal:
+  
+  `- Front End: npm start`
+  
+  - The application will be available on the following routes:
+  
+  `- Front End: http://localhost:3000`
+
+  `- Back End: http://localhost:3001`
+   </details>
+   
+   
+   # Back-End
+
+  ## 1 - Rotas do Usuário - User Routes
+  <details>
+  <summary>:brazil: Portuguese </summary>
+  
+  ###  Reviews
+  
+| Método | Funcionalidade                       | URL                                  |
+| ------ | ------------------------------------ | ------------------------------------ |
+| `POST` | Realiza o post dos reviews no banco  | http://localhost:8080/api/v1/reviews |
+
+ Nessa requisição `POST` é necessário informar o seguinte JSON:
+  
+ ```
+{
+  "body": "Corpo_da_mensagem"
+}
+```
+  
+  ### Movie
+
+| Método | Funcionalidade             | URL                                 |
+| ------ | -------------------------- | ----------------------------------- |
+| `GET` | Recupera filmes do banco | http://localhost:8080/api/v1/movies |
+
+Nessa requisição `GET` é necessário informar o seguinte JSON:
+
+```
+{
+  "_id": "  ",
+  "imdbId": " "
+  "title": " ",
+  "releaseDate": " "
+  "trailerLink": " ",
+  "poster": " "
+  "genres": " ",
+  "backdrops": " "
+  "reviewIds": " "
+}
+```
+</details>
+
+<details>
+  <summary>:us: English </summary>
+  
+   ###  Reviews
+  
+| Method | Functionality                        | URL                                  |
+| ------ | ------------------------------------ | ------------------------------------ |
+| `POST` | Post the reviews in the bank         | http://localhost:8080/api/v1/reviews |
+
+In this `POST` request, it is necessary to inform the following JSON:
+  
+  
+  ```
+{
+  "body": " "
+}
+```
+  
+  ### Movie
+
+| Method | Functionality                 | URL                                 |
+| ------ | ----------------------------- | ----------------------------------- |
+| `GET`  | Retrieve movies from the bank | http://localhost:8080/api/v1/movies |
+
+In this `GET` request, it is necessary to inform the following JSON:
+
+```
+{
+  "_id": "  ",
+  "imdbId": " "
+  "title": " ",
+  "releaseDate": " "
+  "trailerLink": " ",
+  "poster": " "
+  "genres": " ",
+  "backdrops": " "
+  "reviewIds": " "
+}
+```
+  
+  </details>
+  
+  <details>
+  <summary>:brazil: Portuguese </summary>
+  Para ter acesso ao front end da aplicação, basta apenas acessar o endereço `http://localhost:3000/`.
+  ## 1 - Home Page
+  
