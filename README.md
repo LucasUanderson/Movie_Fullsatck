@@ -24,10 +24,15 @@
   - React Router Dom
   - Context Api
   - React Hooks
+  - Bootstrap
+  - Fortawersome
+  - React player
+  - Material
   
 ### - Back End:
   - Java
   - MongoDb
+  - Spring
 
 
 ## ⚙️ Como executar - How to run
